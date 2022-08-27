@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920463839311",
+    "firebase_url": "https://endlich-gelassen-leben-2559b-default-rtdb.firebaseio.com",
+    "project_id": "endlich-gelassen-leben-2559b",
+    "storage_bucket": "endlich-gelassen-leben-2559b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920463839311:android:f589be17b2ebe0ad831a3a",
+        "android_client_info": {
+          "package_name": "com.stormdeve.lpat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920463839311-qfdpg7g6f6vgi13k5senm7juf5lbo6iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stormdeve.lpat",
+            "certificate_hash": "c044e80d503099932e9eb85dc1219fb6d781accb"
+          }
+        },
+        {
+          "client_id": "920463839311-o3apt6j4dd0peoepfn7i0egup8vdbvfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoChRGKX1-3Xi0gGc_UOWudSEfpfbKePM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920463839311-o3apt6j4dd0peoepfn7i0egup8vdbvfa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920463839311-od0r1ngu4p7i2fnjqfklaq3j34mlqpvl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stormdeve.lpat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
